@@ -1,0 +1,11 @@
+{
+  "$schema": "https://mimo.xiaomi.com//config.json",
+  "mcp": {
+    "wps-et": {
+      "type": "local",
+      "command": ["C:/Users/ql/AppData/Local/Programs/Python/Python314/python.exe", "-X", "utf8", "C:/Users/ql/.claude/mcp-servers/wps_et_server.py"],
+      "enabled": true,
+      "description": "WPS 表格 COM 自动化 — 读写改删公式图表"
+    }
+  }
+}
