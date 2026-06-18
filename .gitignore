@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+debug_pivot.py
+register_com.py
+test_com.ps1
+test_nr.py
